@@ -1,0 +1,94 @@
+{
+  "repo": "DevOps-SRE-Cloud-Jobs",
+  "owner": "dreamworkhq",
+  "title": "DevOps, SRE, and Cloud Jobs",
+  "tagline": "DevOps, site reliability, platform, infrastructure, and cloud engineering roles in the US and worldwide. Listings come straight from company career pages, so every link is a real, open posting.",
+  "description": "DevOps, SRE, and cloud jobs updated daily. Platform, infrastructure, Kubernetes, and reliability roles with salaries, from 400,000+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-devops-sre-cloud-jobs",
+  "topics": [
+    "devops",
+    "sre",
+    "jobs",
+    "job-search",
+    "kubernetes",
+    "cloud",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "site-reliability-engineering",
+    "platform-engineering",
+    "infrastructure",
+    "hiring",
+    "devops-jobs",
+    "aws"
+  ],
+  "utmCampaign": "gh-devops-sre-cloud-jobs",
+  "keywords": "DevOps, SRE, platform, infrastructure, and cloud engineering roles",
+  "sources": [
+    {
+      "function": "Engineering",
+      "search": "devops"
+    },
+    {
+      "function": "Engineering",
+      "search": "site reliability"
+    },
+    {
+      "function": "Engineering",
+      "search": "kubernetes"
+    },
+    {
+      "function": "Engineering",
+      "search": "terraform"
+    },
+    {
+      "function": "Engineering",
+      "search": "platform engineer"
+    },
+    {
+      "function": "Engineering",
+      "search": "cloud engineer"
+    }
+  ],
+  "usOnly": false,
+  "titleInclude": "devops|\\bsre\\b|site reliability|reliability engineer|platform engineer|infrastructure|cloud engineer|cloud architect|cloud operations|cloud platform|kubernetes|systems engineer|release engineer|production engineer",
+  "titleExclude": "director|\\bvp\\b|head of|chief",
+  "maxRows": 600,
+  "minRows": 25,
+  "maxPagesPerSource": 120,
+  "groupBy": null,
+  "showAiColumn": false,
+  "siblings": [
+    {
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
+      "label": "Remote Tech Jobs: fully remote engineering roles"
+    },
+    {
+      "repo": "dreamworkhq/Cybersecurity-Jobs",
+      "label": "Cybersecurity Jobs: security engineering and InfoSec roles"
+    },
+    {
+      "repo": "dreamworkhq/Python-Developer-Jobs",
+      "label": "Python Developer Jobs: backend, data, and platform roles"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Once a day. A GitHub Action pulls new listings from Dreamwork's public API, which crawls company career pages directly (Greenhouse, Lever, Ashby, Workday, and others). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> for Kubernetes, Terraform, AWS, platform, or reliability roles."
+    },
+    {
+      "q": "What counts as a DevOps job here?",
+      "a": "Engineering roles whose title says DevOps, SRE, site reliability, platform, infrastructure, cloud, release, or production engineering. Pure software feature work is filtered out even when it touches cloud tooling."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "From the postings themselves. When a posting does not state pay, the column is blank. Nothing is estimated."
+    },
+    {
+      "q": "Can a tool apply to these for me?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-devops-sre-cloud-jobs\">Dreamwork</a> matches your resume against every listing here, tailors each application, and can submit them for you. Seeing your matches is free."
+    }
+  ],
+  "mode": "fresh"
+}
