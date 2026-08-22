@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-08-21T23:47:05.821Z",
+  "generatedAt": "2026-08-21T23:59:40.691Z",
   "source": "https://www.dreamworkhq.com",
   "list": "DevOps-SRE-Cloud-Jobs",
   "count": 600,
   "listings": [
+    {
+      "id": "02e7e6eb-539d-4b37-8033-cfdc698a7748",
+      "title": "Infrastructure Platform Engineer",
+      "company": "Cisco",
+      "companyDomain": "cisco.com",
+      "location": "Maynard, Massachusetts, US",
+      "remoteType": "hybrid",
+      "salaryMin": 116600,
+      "salaryMax": 147900,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-21T23:47:17.069Z",
+      "firstIndexedAt": "2026-08-21T23:47:51.538Z",
+      "url": "https://www.dreamworkhq.com/job/02e7e6eb-539d-4b37-8033-cfdc698a7748?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
     {
       "id": "2366bf22-0fb1-4fe9-bc09-9212526a4bbe",
       "title": "Sr. Manager – DevOps/QE",
@@ -500,21 +515,6 @@
       "url": "https://www.dreamworkhq.com/job/eaaadc3d-b36d-4374-998b-6623ca92f436?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "0beebd09-c732-41f4-8793-c737fb87ed1b",
-      "title": "DevOps Engineer",
-      "company": "Sdworxgroup",
-      "companyDomain": "sdworxgroup.my.site.com",
-      "location": "Sundbyberg, Sweden, Sweden",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T11:39:34.000Z",
-      "firstIndexedAt": "2026-08-21T19:54:44.984Z",
-      "url": "https://www.dreamworkhq.com/job/0beebd09-c732-41f4-8793-c737fb87ed1b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "870a1703-6aa1-48e1-957d-c6c1e0b45ad8",
       "title": "DevOps Software Engineer",
       "company": "Sdworxgroup",
@@ -528,6 +528,21 @@
       "postedAt": "2026-02-13T14:16:28.000Z",
       "firstIndexedAt": "2026-08-21T19:54:44.984Z",
       "url": "https://www.dreamworkhq.com/job/870a1703-6aa1-48e1-957d-c6c1e0b45ad8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "0beebd09-c732-41f4-8793-c737fb87ed1b",
+      "title": "DevOps Engineer",
+      "company": "Sdworxgroup",
+      "companyDomain": "sdworxgroup.my.site.com",
+      "location": "Sundbyberg, Sweden, Sweden",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-18T11:39:34.000Z",
+      "firstIndexedAt": "2026-08-21T19:54:44.984Z",
+      "url": "https://www.dreamworkhq.com/job/0beebd09-c732-41f4-8793-c737fb87ed1b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "89809b0f-5e77-4180-bd52-a08088c501fc",
@@ -605,21 +620,6 @@
       "url": "https://www.dreamworkhq.com/job/4c0179fa-9db1-4d64-9d00-69502f3e9ad2?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "9cb762a9-0d52-474b-b009-ec51a87562be",
-      "title": "Senior Site Reliability Engineer",
-      "company": "Akamai Technologies",
-      "companyDomain": "akamai.com",
-      "location": "United States",
-      "remoteType": "remote",
-      "salaryMin": 146600,
-      "salaryMax": 263600,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-21T18:29:06.000Z",
-      "firstIndexedAt": "2026-08-21T19:15:25.977Z",
-      "url": "https://www.dreamworkhq.com/job/9cb762a9-0d52-474b-b009-ec51a87562be?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "e71869c9-0999-4479-b103-5f951aaa0c99",
       "title": "Site Reliability Engineer II",
       "company": "Akamai Technologies",
@@ -633,6 +633,21 @@
       "postedAt": "2026-08-21T18:17:39.000Z",
       "firstIndexedAt": "2026-08-21T19:15:25.977Z",
       "url": "https://www.dreamworkhq.com/job/e71869c9-0999-4479-b103-5f951aaa0c99?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "9cb762a9-0d52-474b-b009-ec51a87562be",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Akamai Technologies",
+      "companyDomain": "akamai.com",
+      "location": "United States",
+      "remoteType": "remote",
+      "salaryMin": 146600,
+      "salaryMax": 263600,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-21T18:29:06.000Z",
+      "firstIndexedAt": "2026-08-21T19:15:25.977Z",
+      "url": "https://www.dreamworkhq.com/job/9cb762a9-0d52-474b-b009-ec51a87562be?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "81d7e5b1-4827-4e6d-8cb2-2d1e8702dda4",
@@ -830,19 +845,19 @@
       "url": "https://www.dreamworkhq.com/job/b279f9e8-c622-494d-a7cf-2b946dee1856?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "7e086876-538d-4115-8a32-2284dab2b745",
-      "title": "Platform Engineer",
+      "id": "bcfb5b24-8d11-42cd-a883-bc6c6399df61",
+      "title": "Platform Engineer - Cloud",
       "company": "Barclays",
       "companyDomain": "barclays.co.uk",
-      "location": "Pune, Gera Commerzone SEZ",
+      "location": "Bengaluru, Maruthi Onyx - TESCO TSA",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-21T22:28:29.947Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-21T22:28:29.903Z",
       "firstIndexedAt": "2026-08-21T17:28:54.039Z",
-      "url": "https://www.dreamworkhq.com/job/7e086876-538d-4115-8a32-2284dab2b745?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/bcfb5b24-8d11-42cd-a883-bc6c6399df61?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "5b23be44-9411-4405-94ed-7fa67d14c6e4",
@@ -860,19 +875,19 @@
       "url": "https://www.dreamworkhq.com/job/5b23be44-9411-4405-94ed-7fa67d14c6e4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "bcfb5b24-8d11-42cd-a883-bc6c6399df61",
-      "title": "Platform Engineer - Cloud",
+      "id": "7e086876-538d-4115-8a32-2284dab2b745",
+      "title": "Platform Engineer",
       "company": "Barclays",
       "companyDomain": "barclays.co.uk",
-      "location": "Bengaluru, Maruthi Onyx - TESCO TSA",
+      "location": "Pune, Gera Commerzone SEZ",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-21T22:28:29.903Z",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-21T22:28:29.947Z",
       "firstIndexedAt": "2026-08-21T17:28:54.039Z",
-      "url": "https://www.dreamworkhq.com/job/bcfb5b24-8d11-42cd-a883-bc6c6399df61?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/7e086876-538d-4115-8a32-2284dab2b745?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "663899e7-106c-4e8d-89fd-9ece2e15c49a",
@@ -1430,7 +1445,7 @@
       "url": "https://www.dreamworkhq.com/job/fa004d18-cfb1-49af-bf96-aa8deaa2c968?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "38495415-0e6a-4932-afa4-3f849673d2cd",
+      "id": "b81e4936-41b6-4510-baa8-101f35ca78cd",
       "title": "Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)",
       "company": "Amazon",
       "companyDomain": "amazon.com",
@@ -1442,7 +1457,22 @@
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-21T11:48:16.228Z",
-      "url": "https://www.dreamworkhq.com/job/38495415-0e6a-4932-afa4-3f849673d2cd?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/b81e4936-41b6-4510-baa8-101f35ca78cd?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "f7b398e8-5e15-4245-be4c-842c93dacf50",
+      "title": "Senior Delivery Consultant – DevOps, WWPS ProServe",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "US, VA, Herndon",
+      "remoteType": "onsite",
+      "salaryMin": 153600,
+      "salaryMax": 207800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-21T11:48:06.849Z",
+      "url": "https://www.dreamworkhq.com/job/f7b398e8-5e15-4245-be4c-842c93dacf50?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "1248382a-a919-42a2-acc7-5a69731ec7cf",
@@ -1458,21 +1488,6 @@
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-21T11:48:06.849Z",
       "url": "https://www.dreamworkhq.com/job/1248382a-a919-42a2-acc7-5a69731ec7cf?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "e1ad2f81-db2b-46e1-8535-2da799dd9fce",
-      "title": "Senior Delivery Consultant – DevOps, WWPS ProServe",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "US, VA, Herndon",
-      "remoteType": "onsite",
-      "salaryMin": 153600,
-      "salaryMax": 207800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-21T11:48:06.849Z",
-      "url": "https://www.dreamworkhq.com/job/e1ad2f81-db2b-46e1-8535-2da799dd9fce?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "eb4a9b5b-3dcb-4bc5-bcf2-9ef65eaba341",
@@ -1670,21 +1685,6 @@
       "url": "https://www.dreamworkhq.com/job/d5d401a1-f6b4-4b84-8931-603d19da79c2?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "f46707b3-7bda-44ac-894b-357af6d3cb31",
-      "title": "Data Platform Engineer, Emerging Technology Solutions",
-      "company": "Apple",
-      "companyDomain": "apple.com",
-      "location": "Shanghai",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T17:44:36.477Z",
-      "firstIndexedAt": "2026-08-21T11:20:55.896Z",
-      "url": "https://www.dreamworkhq.com/job/f46707b3-7bda-44ac-894b-357af6d3cb31?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "ebb536c5-797a-4df5-99c8-f7cc1ac6c923",
       "title": "Sr. Data Platform Engineer, Emerging Technology Solutions",
       "company": "Apple",
@@ -1698,6 +1698,21 @@
       "postedAt": "2026-08-20T17:44:32.871Z",
       "firstIndexedAt": "2026-08-21T11:20:55.896Z",
       "url": "https://www.dreamworkhq.com/job/ebb536c5-797a-4df5-99c8-f7cc1ac6c923?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "f46707b3-7bda-44ac-894b-357af6d3cb31",
+      "title": "Data Platform Engineer, Emerging Technology Solutions",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "Shanghai",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T17:44:36.477Z",
+      "firstIndexedAt": "2026-08-21T11:20:55.896Z",
+      "url": "https://www.dreamworkhq.com/job/f46707b3-7bda-44ac-894b-357af6d3cb31?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "e34fb4a1-8cfc-4356-a5d5-94aecac0a58b",
@@ -1968,6 +1983,21 @@
       "postedAt": "2026-08-21T07:06:28.411Z",
       "firstIndexedAt": "2026-08-21T09:31:29.120Z",
       "url": "https://www.dreamworkhq.com/job/d0dc3e75-8be1-4fd0-b42d-bed33504425d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "944d895f-a795-4c1f-b357-49a41b17b3cc",
+      "title": "Cloud Engineer",
+      "company": "SopraSteria1",
+      "companyDomain": "soprasteria.com",
+      "location": "Stockholm, Stockholms län, Sweden",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-21T07:20:42.526Z",
+      "firstIndexedAt": "2026-08-21T09:31:29.120Z",
+      "url": "https://www.dreamworkhq.com/job/944d895f-a795-4c1f-b357-49a41b17b3cc?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "bf0ead83-ee18-48d6-833f-70a9ad5e1eab",
@@ -2285,21 +2315,6 @@
       "url": "https://www.dreamworkhq.com/job/37b85618-6625-46e1-a16f-d804d83f4fba?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "1af32983-df86-4882-9d84-630b8312f095",
-      "title": "Devops / Site Reliability Engineer",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "ssc-ict.nl",
-      "location": "Flevoland, Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-21T01:13:37.079Z",
-      "firstIndexedAt": "2026-08-21T06:32:15.080Z",
-      "url": "https://www.dreamworkhq.com/job/1af32983-df86-4882-9d84-630b8312f095?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "25ae6e8d-0430-4b98-a4a8-24ae608f9658",
       "title": "Azure DevOps Platform Specialist",
       "company": "EURES Netherlands (Professional)",
@@ -2328,6 +2343,21 @@
       "postedAt": "2026-08-21T01:13:18.792Z",
       "firstIndexedAt": "2026-08-21T06:32:15.080Z",
       "url": "https://www.dreamworkhq.com/job/14934153-de73-4b3a-94a8-3a0da5f0ce0f?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "1af32983-df86-4882-9d84-630b8312f095",
+      "title": "Devops / Site Reliability Engineer",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "ssc-ict.nl",
+      "location": "Flevoland, Netherlands",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-21T01:13:37.079Z",
+      "firstIndexedAt": "2026-08-21T06:32:15.080Z",
+      "url": "https://www.dreamworkhq.com/job/1af32983-df86-4882-9d84-630b8312f095?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "2d803f7b-bd9a-462e-9b71-f447685d754e",
@@ -2360,21 +2390,6 @@
       "url": "https://www.dreamworkhq.com/job/78c4d70a-a551-4ccb-93f8-a81a79d4f974?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "aea6ef83-6410-434d-9e2d-d8ab3d512872",
-      "title": "AI Devops Engineer",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "pon.com",
-      "location": "Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-21T01:13:33.008Z",
-      "firstIndexedAt": "2026-08-21T06:31:49.064Z",
-      "url": "https://www.dreamworkhq.com/job/aea6ef83-6410-434d-9e2d-d8ab3d512872?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "136e8b18-e370-416d-b391-8dcf667c01e9",
       "title": "Azure Devops Platform Specialist *a0821291",
       "company": "EURES Netherlands (Professional)",
@@ -2388,6 +2403,21 @@
       "postedAt": "2026-08-21T01:13:29.022Z",
       "firstIndexedAt": "2026-08-21T06:31:49.064Z",
       "url": "https://www.dreamworkhq.com/job/136e8b18-e370-416d-b391-8dcf667c01e9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "aea6ef83-6410-434d-9e2d-d8ab3d512872",
+      "title": "AI Devops Engineer",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "pon.com",
+      "location": "Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-21T01:13:33.008Z",
+      "firstIndexedAt": "2026-08-21T06:31:49.064Z",
+      "url": "https://www.dreamworkhq.com/job/aea6ef83-6410-434d-9e2d-d8ab3d512872?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "c7e9afe1-54ca-4a17-8554-b7dbd0eefa45",
@@ -2600,6 +2630,21 @@
       "url": "https://www.dreamworkhq.com/job/f2ae400d-0a20-4a59-ba51-71b961343fe0?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "1790efdf-0198-466c-80b6-e10647501903",
+      "title": "Senior DevOps Engineer",
+      "company": "Invisibletech",
+      "companyDomain": "invisible.tech",
+      "location": "London - Hybrid",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-21T00:23:25.000Z",
+      "firstIndexedAt": "2026-08-21T04:15:08.664Z",
+      "url": "https://www.dreamworkhq.com/job/1790efdf-0198-466c-80b6-e10647501903?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "ddaa7a5c-6881-4a58-8060-5af84b278a1b",
       "title": "DevOps Engineer",
       "company": "Itron",
@@ -2703,6 +2748,21 @@
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-21T03:31:46.994Z",
       "url": "https://www.dreamworkhq.com/job/87f67636-dc4f-44c3-9021-c518d1ad528a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "176efdae-b680-45af-ab5b-7fb8f52f204b",
+      "title": "Data  AI Platform Engineer Intern",
+      "company": "Boston Scientific",
+      "companyDomain": "bostonscientific.com",
+      "location": "Madrid, Madrid",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-21T03:31:46.994Z",
+      "url": "https://www.dreamworkhq.com/job/176efdae-b680-45af-ab5b-7fb8f52f204b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "6ff38d73-4ed4-4d98-9bfb-597b81bf2e4c",
@@ -2855,19 +2915,19 @@
       "url": "https://www.dreamworkhq.com/job/9bb674c1-8791-4f3e-81ec-35c1ce074257?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "094b4a46-c4c3-4e15-bf0c-13827b1d38f4",
-      "title": "DevOps Engineer (AWS / SRE, English)",
+      "id": "18c669b5-91cf-46ad-b479-e204221e4c4c",
+      "title": "Senior DevOps Engineer (AWS, English), based in Da Nang",
       "company": "KMSTechnology1",
       "companyDomain": "kms-technology.com",
-      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "location": "Da Nang City, , Vietnam",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T09:17:06.918Z",
+      "postedAt": "2026-08-20T09:18:40.661Z",
       "firstIndexedAt": "2026-08-21T02:15:16.055Z",
-      "url": "https://www.dreamworkhq.com/job/094b4a46-c4c3-4e15-bf0c-13827b1d38f4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/18c669b5-91cf-46ad-b479-e204221e4c4c?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "0ed7217f-6891-47b6-97b2-6ef5ae816ec5",
@@ -2885,6 +2945,21 @@
       "url": "https://www.dreamworkhq.com/job/0ed7217f-6891-47b6-97b2-6ef5ae816ec5?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "094b4a46-c4c3-4e15-bf0c-13827b1d38f4",
+      "title": "DevOps Engineer (AWS / SRE, English)",
+      "company": "KMSTechnology1",
+      "companyDomain": "kms-technology.com",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T09:17:06.918Z",
+      "firstIndexedAt": "2026-08-21T02:15:16.055Z",
+      "url": "https://www.dreamworkhq.com/job/094b4a46-c4c3-4e15-bf0c-13827b1d38f4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "f9d4048e-977a-439f-8b6c-18f15f9ba04c",
       "title": "DevOps Engineer ( AWS / CDK, English), based in Da Nang",
       "company": "KMSTechnology1",
@@ -2898,21 +2973,6 @@
       "postedAt": "2026-08-19T02:32:39.857Z",
       "firstIndexedAt": "2026-08-21T02:15:16.055Z",
       "url": "https://www.dreamworkhq.com/job/f9d4048e-977a-439f-8b6c-18f15f9ba04c?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "18c669b5-91cf-46ad-b479-e204221e4c4c",
-      "title": "Senior DevOps Engineer (AWS, English), based in Da Nang",
-      "company": "KMSTechnology1",
-      "companyDomain": "kms-technology.com",
-      "location": "Da Nang City, , Vietnam",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T09:18:40.661Z",
-      "firstIndexedAt": "2026-08-21T02:15:16.055Z",
-      "url": "https://www.dreamworkhq.com/job/18c669b5-91cf-46ad-b479-e204221e4c4c?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "5c41d8c8-2b16-4f43-8431-9b82e14e46ea",
@@ -3110,8 +3170,8 @@
       "url": "https://www.dreamworkhq.com/job/c093ecb3-2979-4c92-b986-4fff3d640c11?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "134eda8b-2786-4b4b-9b44-dee5cc8062ab",
-      "title": "Senior Infrastructure Automation Engineer, Compute Platform",
+      "id": "de4f1e53-d058-41d5-988e-04fa2779b9b2",
+      "title": "Senior Compute Platform Engineer, LSF ",
       "company": "Nvidia",
       "companyDomain": "nvidia.com",
       "location": "US, CA, Santa Clara",
@@ -3120,9 +3180,9 @@
       "salaryMax": 356500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T23:42:11.425Z",
+      "postedAt": "2026-08-20T23:42:11.345Z",
       "firstIndexedAt": "2026-08-20T23:06:31.470Z",
-      "url": "https://www.dreamworkhq.com/job/134eda8b-2786-4b4b-9b44-dee5cc8062ab?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/de4f1e53-d058-41d5-988e-04fa2779b9b2?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "57324cc8-a5fd-4086-9bd8-ca5fe14f26f1",
@@ -3140,8 +3200,8 @@
       "url": "https://www.dreamworkhq.com/job/57324cc8-a5fd-4086-9bd8-ca5fe14f26f1?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "de4f1e53-d058-41d5-988e-04fa2779b9b2",
-      "title": "Senior Compute Platform Engineer, LSF ",
+      "id": "134eda8b-2786-4b4b-9b44-dee5cc8062ab",
+      "title": "Senior Infrastructure Automation Engineer, Compute Platform",
       "company": "Nvidia",
       "companyDomain": "nvidia.com",
       "location": "US, CA, Santa Clara",
@@ -3150,9 +3210,9 @@
       "salaryMax": 356500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T23:42:11.345Z",
+      "postedAt": "2026-08-20T23:42:11.425Z",
       "firstIndexedAt": "2026-08-20T23:06:31.470Z",
-      "url": "https://www.dreamworkhq.com/job/de4f1e53-d058-41d5-988e-04fa2779b9b2?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/134eda8b-2786-4b4b-9b44-dee5cc8062ab?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "227befd0-b938-4904-b247-cd340e4fcc32",
@@ -3395,21 +3455,6 @@
       "url": "https://www.dreamworkhq.com/job/986feaaf-c0c9-4320-92c3-483eb62e9148?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "e868e445-c883-4ff7-84e1-43d10a7904fa",
-      "title": "Monitoring Platform Engineer (Senior)",
-      "company": "Makpar",
-      "companyDomain": "makpar.com",
-      "location": "Remote, US-Based",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T16:04:51.896Z",
-      "firstIndexedAt": "2026-08-20T21:30:15.025Z",
-      "url": "https://www.dreamworkhq.com/job/e868e445-c883-4ff7-84e1-43d10a7904fa?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "bf8fc80a-8f27-4a7e-8b43-b932fe7f0763",
       "title": "Monitoring Platform Engineer (Mid-Level)",
       "company": "Makpar",
@@ -3425,21 +3470,6 @@
       "url": "https://www.dreamworkhq.com/job/bf8fc80a-8f27-4a7e-8b43-b932fe7f0763?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "ced0ccd2-82be-4ab3-8c85-79415162412d",
-      "title": "Site Reliability Engineer",
-      "company": "Bet3651",
-      "companyDomain": "bet365.com",
-      "location": "Stoke-on-Trent, England, United Kingdom",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-19T13:11:21.966Z",
-      "firstIndexedAt": "2026-08-20T21:15:25.427Z",
-      "url": "https://www.dreamworkhq.com/job/ced0ccd2-82be-4ab3-8c85-79415162412d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "15d3985e-7793-4e63-b840-e7029e479cca",
       "title": "Site Reliability Engineer",
       "company": "Bet3651",
@@ -3453,6 +3483,21 @@
       "postedAt": "2026-08-19T13:13:05.785Z",
       "firstIndexedAt": "2026-08-20T21:15:25.427Z",
       "url": "https://www.dreamworkhq.com/job/15d3985e-7793-4e63-b840-e7029e479cca?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "ced0ccd2-82be-4ab3-8c85-79415162412d",
+      "title": "Site Reliability Engineer",
+      "company": "Bet3651",
+      "companyDomain": "bet365.com",
+      "location": "Stoke-on-Trent, England, United Kingdom",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-08-19T13:11:21.966Z",
+      "firstIndexedAt": "2026-08-20T21:15:25.427Z",
+      "url": "https://www.dreamworkhq.com/job/ced0ccd2-82be-4ab3-8c85-79415162412d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "6d98d619-2886-4cd5-b96a-0651d7b77065",
@@ -3635,21 +3680,6 @@
       "url": "https://www.dreamworkhq.com/job/4d616e67-265b-4342-9a35-83702eae8960?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "594e6760-b2bc-4a02-b25e-b9b4e83ded89",
-      "title": "AI Platform Engineer",
-      "company": "Tailor",
-      "companyDomain": "tailor.tech",
-      "location": "Tokyo",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-19T05:47:08.139Z",
-      "firstIndexedAt": "2026-08-20T19:30:42.431Z",
-      "url": "https://www.dreamworkhq.com/job/594e6760-b2bc-4a02-b25e-b9b4e83ded89?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "de375cad-bfa7-4aaa-8d59-7796303ef3e1",
       "title": "Core Platform Engineer",
       "company": "Tailor",
@@ -3663,6 +3693,21 @@
       "postedAt": "2026-08-19T05:32:03.447Z",
       "firstIndexedAt": "2026-08-20T19:30:42.431Z",
       "url": "https://www.dreamworkhq.com/job/de375cad-bfa7-4aaa-8d59-7796303ef3e1?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "594e6760-b2bc-4a02-b25e-b9b4e83ded89",
+      "title": "AI Platform Engineer",
+      "company": "Tailor",
+      "companyDomain": "tailor.tech",
+      "location": "Tokyo",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-19T05:47:08.139Z",
+      "firstIndexedAt": "2026-08-20T19:30:42.431Z",
+      "url": "https://www.dreamworkhq.com/job/594e6760-b2bc-4a02-b25e-b9b4e83ded89?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "b1551184-ec64-414c-b774-6b7dc0d1e139",
@@ -3770,21 +3815,6 @@
       "url": "https://www.dreamworkhq.com/job/4e266550-55c9-44fb-8f9c-d28493d652d7?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "aaebe1b2-062b-4e28-95bd-b3811a030372",
-      "title": "Senior Platform Engineer - NBA",
-      "company": "Humana",
-      "companyDomain": "humana.com",
-      "location": "Remote Nationwide",
-      "remoteType": "remote",
-      "salaryMin": 106900,
-      "salaryMax": 147000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T22:47:07.623Z",
-      "firstIndexedAt": "2026-08-20T18:58:07.408Z",
-      "url": "https://www.dreamworkhq.com/job/aaebe1b2-062b-4e28-95bd-b3811a030372?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "f6091e42-e0aa-4108-beef-14fc6dda65db",
       "title": "Lead Platform Engineer - NBA",
       "company": "Humana",
@@ -3798,6 +3828,21 @@
       "postedAt": "2026-08-20T22:47:07.546Z",
       "firstIndexedAt": "2026-08-20T18:58:07.408Z",
       "url": "https://www.dreamworkhq.com/job/f6091e42-e0aa-4108-beef-14fc6dda65db?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "aaebe1b2-062b-4e28-95bd-b3811a030372",
+      "title": "Senior Platform Engineer - NBA",
+      "company": "Humana",
+      "companyDomain": "humana.com",
+      "location": "Remote Nationwide",
+      "remoteType": "remote",
+      "salaryMin": 106900,
+      "salaryMax": 147000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T22:47:07.623Z",
+      "firstIndexedAt": "2026-08-20T18:58:07.408Z",
+      "url": "https://www.dreamworkhq.com/job/aaebe1b2-062b-4e28-95bd-b3811a030372?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "e1c6b8ab-01c2-4900-b27c-836c3bedf71c",
@@ -3890,21 +3935,6 @@
       "url": "https://www.dreamworkhq.com/job/35af3f65-2748-4cd8-a7d2-5fdf2ecff541?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "4135ffb0-ae81-4753-ab01-883ff202e602",
-      "title": "Cloud Platform Engineer VIA",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "vdl.com",
-      "location": "Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T01:12:48.008Z",
-      "firstIndexedAt": "2026-08-20T17:07:58.919Z",
-      "url": "https://www.dreamworkhq.com/job/4135ffb0-ae81-4753-ab01-883ff202e602?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "3e81b330-c704-414a-bcd5-df3588907d6a",
       "title": "Developer Platform Engineer",
       "company": "EURES Netherlands (Professional)",
@@ -3920,19 +3950,19 @@
       "url": "https://www.dreamworkhq.com/job/3e81b330-c704-414a-bcd5-df3588907d6a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "1dd874f0-478d-4877-8489-03bae851b175",
-      "title": "Cloud Infrastructure Engineer - AWS",
-      "company": "Akkodis",
-      "companyDomain": "akkodis.com",
-      "location": "Hessle",
-      "remoteType": "hybrid",
-      "salaryMin": 57000,
-      "salaryMax": 62000,
-      "salaryPeriod": "annual",
+      "id": "4135ffb0-ae81-4753-ab01-883ff202e602",
+      "title": "Cloud Platform Engineer VIA",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "vdl.com",
+      "location": "Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T17:07:38.295Z",
-      "url": "https://www.dreamworkhq.com/job/1dd874f0-478d-4877-8489-03bae851b175?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "postedAt": "2026-08-20T01:12:48.008Z",
+      "firstIndexedAt": "2026-08-20T17:07:58.919Z",
+      "url": "https://www.dreamworkhq.com/job/4135ffb0-ae81-4753-ab01-883ff202e602?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "315240c9-183d-4a68-ab65-a00c99842b4b",
@@ -3948,6 +3978,21 @@
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T17:07:38.295Z",
       "url": "https://www.dreamworkhq.com/job/315240c9-183d-4a68-ab65-a00c99842b4b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "1dd874f0-478d-4877-8489-03bae851b175",
+      "title": "Cloud Infrastructure Engineer - AWS",
+      "company": "Akkodis",
+      "companyDomain": "akkodis.com",
+      "location": "Hessle",
+      "remoteType": "hybrid",
+      "salaryMin": 57000,
+      "salaryMax": 62000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T17:07:38.295Z",
+      "url": "https://www.dreamworkhq.com/job/1dd874f0-478d-4877-8489-03bae851b175?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "99bdc487-687a-464e-a308-1880ffdbee05",
@@ -4010,21 +4055,6 @@
       "url": "https://www.dreamworkhq.com/job/0865d346-b37b-4c3c-a728-6c0510e51d4d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "b806e13d-ec70-44b4-a8b9-dc63e09ece50",
-      "title": "Java Devops Engineer",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "scholt.nl",
-      "location": "Gelderland, Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T01:12:10.346Z",
-      "firstIndexedAt": "2026-08-20T17:03:57.553Z",
-      "url": "https://www.dreamworkhq.com/job/b806e13d-ec70-44b4-a8b9-dc63e09ece50?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "e29151db-2a1e-4ec8-bd00-cc7c7e000170",
       "title": "Devops Engineer",
       "company": "EURES Netherlands (Professional)",
@@ -4053,6 +4083,21 @@
       "postedAt": "2026-08-20T01:12:30.615Z",
       "firstIndexedAt": "2026-08-20T17:03:57.553Z",
       "url": "https://www.dreamworkhq.com/job/c708ad1e-fc04-4975-b11f-6ea060b5f6cb?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "b806e13d-ec70-44b4-a8b9-dc63e09ece50",
+      "title": "Java Devops Engineer",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "scholt.nl",
+      "location": "Gelderland, Netherlands",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T01:12:10.346Z",
+      "firstIndexedAt": "2026-08-20T17:03:57.553Z",
+      "url": "https://www.dreamworkhq.com/job/b806e13d-ec70-44b4-a8b9-dc63e09ece50?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "4672d12e-86ac-42d3-adfa-c2f6c32952a7",
@@ -4175,21 +4220,6 @@
       "url": "https://www.dreamworkhq.com/job/8a49d306-0aed-4628-b03e-1219b30fa32a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "e2d0a6ea-4965-4bcf-81bf-3016f95cf351",
-      "title": "Cloud Engineer",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "Chantilly, VA",
-      "remoteType": "hybrid",
-      "salaryMin": 86800,
-      "salaryMax": 198000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T09:29:39.625Z",
-      "firstIndexedAt": "2026-08-20T16:29:03.103Z",
-      "url": "https://www.dreamworkhq.com/job/e2d0a6ea-4965-4bcf-81bf-3016f95cf351?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "afe76757-0ceb-4b5e-b438-fdd8cf0c7bb5",
       "title": "Cloud Operations Engineer",
       "company": "Booz Allen Hamilton",
@@ -4203,6 +4233,21 @@
       "postedAt": "2026-08-18T09:29:39.354Z",
       "firstIndexedAt": "2026-08-20T16:29:03.103Z",
       "url": "https://www.dreamworkhq.com/job/afe76757-0ceb-4b5e-b438-fdd8cf0c7bb5?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "e2d0a6ea-4965-4bcf-81bf-3016f95cf351",
+      "title": "Cloud Engineer",
+      "company": "Booz Allen Hamilton",
+      "companyDomain": "boozallen.com",
+      "location": "Chantilly, VA",
+      "remoteType": "hybrid",
+      "salaryMin": 86800,
+      "salaryMax": 198000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-18T09:29:39.625Z",
+      "firstIndexedAt": "2026-08-20T16:29:03.103Z",
+      "url": "https://www.dreamworkhq.com/job/e2d0a6ea-4965-4bcf-81bf-3016f95cf351?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "132a07e2-d2d9-42ce-9aa7-20a7acba02df",
@@ -4280,21 +4325,6 @@
       "url": "https://www.dreamworkhq.com/job/87207b0d-6edc-45d6-baff-d11595373675?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "00ca3738-dc5a-4f29-956c-fccaebbc382a",
-      "title": "Devops",
-      "company": "GORILLA.UA",
-      "companyDomain": "gorilla.ua",
-      "location": "Kyiv, Ukraine",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T15:21:55.934Z",
-      "firstIndexedAt": "2026-08-20T15:39:08.808Z",
-      "url": "https://www.dreamworkhq.com/job/00ca3738-dc5a-4f29-956c-fccaebbc382a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "5f98bb0c-a89a-4eed-9b55-9602e2c26a72",
       "title": "DevOps",
       "company": "Frozeneon",
@@ -4308,6 +4338,21 @@
       "postedAt": "2026-08-20T17:32:21.746Z",
       "firstIndexedAt": "2026-08-20T15:39:08.808Z",
       "url": "https://www.dreamworkhq.com/job/5f98bb0c-a89a-4eed-9b55-9602e2c26a72?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "00ca3738-dc5a-4f29-956c-fccaebbc382a",
+      "title": "Devops",
+      "company": "GORILLA.UA",
+      "companyDomain": "gorilla.ua",
+      "location": "Kyiv, Ukraine",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T15:21:55.934Z",
+      "firstIndexedAt": "2026-08-20T15:39:08.808Z",
+      "url": "https://www.dreamworkhq.com/job/00ca3738-dc5a-4f29-956c-fccaebbc382a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "a9e695b1-017b-4367-b310-85a7c4ac4413",
@@ -4325,21 +4370,6 @@
       "url": "https://www.dreamworkhq.com/job/a9e695b1-017b-4367-b310-85a7c4ac4413?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "1edb1981-a39e-4b6f-b666-63a1ac13d6a4",
-      "title": "Senior DevOps Engineer",
-      "company": "Adaptiq",
-      "companyDomain": "adaptiq.com",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T13:16:29.159Z",
-      "firstIndexedAt": "2026-08-20T15:38:20.273Z",
-      "url": "https://www.dreamworkhq.com/job/1edb1981-a39e-4b6f-b666-63a1ac13d6a4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "29f6202b-1365-4e56-8686-7b37a70b5a72",
       "title": "Senior DevOps Engineer",
       "company": "Visual Craft",
@@ -4355,19 +4385,19 @@
       "url": "https://www.dreamworkhq.com/job/29f6202b-1365-4e56-8686-7b37a70b5a72?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "785e2144-6d54-4ebe-ab1a-ca6beb8b4f41",
-      "title": "AI Platform Engineer (Strong Senior/Lead DevOps/MLOps)",
-      "company": "GlobalLogic",
-      "companyDomain": "globallogic.com",
-      "location": "Ukraine",
+      "id": "1edb1981-a39e-4b6f-b666-63a1ac13d6a4",
+      "title": "Senior DevOps Engineer",
+      "company": "Adaptiq",
+      "companyDomain": "adaptiq.com",
+      "location": "Europe",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-19T17:33:52.512Z",
-      "firstIndexedAt": "2026-08-20T15:38:17.579Z",
-      "url": "https://www.dreamworkhq.com/job/785e2144-6d54-4ebe-ab1a-ca6beb8b4f41?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T13:16:29.159Z",
+      "firstIndexedAt": "2026-08-20T15:38:20.273Z",
+      "url": "https://www.dreamworkhq.com/job/1edb1981-a39e-4b6f-b666-63a1ac13d6a4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "979980ce-908d-47f4-8cb5-3bfa04e6f1ec",
@@ -4398,6 +4428,21 @@
       "postedAt": "2026-08-19T18:17:52.157Z",
       "firstIndexedAt": "2026-08-20T15:38:17.579Z",
       "url": "https://www.dreamworkhq.com/job/2a3078b0-80ba-449e-99ff-ba2227199691?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "785e2144-6d54-4ebe-ab1a-ca6beb8b4f41",
+      "title": "AI Platform Engineer (Strong Senior/Lead DevOps/MLOps)",
+      "company": "GlobalLogic",
+      "companyDomain": "globallogic.com",
+      "location": "Ukraine",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-19T17:33:52.512Z",
+      "firstIndexedAt": "2026-08-20T15:38:17.579Z",
+      "url": "https://www.dreamworkhq.com/job/785e2144-6d54-4ebe-ab1a-ca6beb8b4f41?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "33ebbfaa-df4d-4a76-92fa-a3bd77e66172",
@@ -4625,21 +4670,6 @@
       "url": "https://www.dreamworkhq.com/job/4268f5cb-ac23-49b3-9c2d-8ac02f668835?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "596be881-6399-4287-b3ad-3ca6f02ebccf",
-      "title": "Technology Platform Engineer",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Bengaluru",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T14:12:31.198Z",
-      "firstIndexedAt": "2026-08-20T14:13:42.898Z",
-      "url": "https://www.dreamworkhq.com/job/596be881-6399-4287-b3ad-3ca6f02ebccf?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "01f4316c-8734-4fbd-a9f7-531d876cdf0b",
       "title": "Cloud Platform Engineer",
       "company": "Accenture",
@@ -4655,19 +4685,19 @@
       "url": "https://www.dreamworkhq.com/job/01f4316c-8734-4fbd-a9f7-531d876cdf0b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "afd38f70-6f93-44ed-92ea-a8b0d82ea984",
-      "title": "Data Platform Engineer",
+      "id": "596be881-6399-4287-b3ad-3ca6f02ebccf",
+      "title": "Technology Platform Engineer",
       "company": "Accenture",
       "companyDomain": "accenture.com",
-      "location": "Hyderabad",
+      "location": "Bengaluru",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T14:12:13.776Z",
-      "firstIndexedAt": "2026-08-20T14:13:33.214Z",
-      "url": "https://www.dreamworkhq.com/job/afd38f70-6f93-44ed-92ea-a8b0d82ea984?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "postedAt": "2026-08-20T14:12:31.198Z",
+      "firstIndexedAt": "2026-08-20T14:13:42.898Z",
+      "url": "https://www.dreamworkhq.com/job/596be881-6399-4287-b3ad-3ca6f02ebccf?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "c25541f1-41cd-4c68-9c48-103cbcf645da",
@@ -4715,6 +4745,21 @@
       "url": "https://www.dreamworkhq.com/job/d1d941ff-d8a6-4f15-9c54-9191b7f9bce3?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "271564f0-42e5-4958-9ab9-76ff6136bbad",
+      "title": "Data Platform Engineer",
+      "company": "Accenture",
+      "companyDomain": "accenture.com",
+      "location": "Hyderabad",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T14:12:14.387Z",
+      "firstIndexedAt": "2026-08-20T14:13:33.214Z",
+      "url": "https://www.dreamworkhq.com/job/271564f0-42e5-4958-9ab9-76ff6136bbad?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "0317ad6a-6025-4630-a7a6-1a7f98ba0233",
       "title": "DevOps Engineer",
       "company": "Accenture",
@@ -4728,21 +4773,6 @@
       "postedAt": "2026-08-20T14:12:11.270Z",
       "firstIndexedAt": "2026-08-20T14:13:21.616Z",
       "url": "https://www.dreamworkhq.com/job/0317ad6a-6025-4630-a7a6-1a7f98ba0233?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "812ab29a-90b3-4048-8e8b-72f028f75ce9",
-      "title": "Platform Engineer II (Virtualization) (Onsite Role)",
-      "company": "Oreillyauto",
-      "companyDomain": "oreillyauto.com",
-      "location": "Headquarters",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T14:05:26.593Z",
-      "firstIndexedAt": "2026-08-20T14:06:58.087Z",
-      "url": "https://www.dreamworkhq.com/job/812ab29a-90b3-4048-8e8b-72f028f75ce9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "96f349da-a906-4d59-9a0b-b79627aacf2e",
@@ -4760,19 +4790,19 @@
       "url": "https://www.dreamworkhq.com/job/96f349da-a906-4d59-9a0b-b79627aacf2e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "7a4dc385-35c4-44fa-9837-f8c318376f83",
-      "title": "Junior Cloud Engineer",
-      "company": "Oscar Technology",
-      "companyDomain": "oscarassociates.co.uk",
-      "location": "Stoke-on-Trent",
-      "remoteType": "onsite",
-      "salaryMin": 64000,
-      "salaryMax": 83000,
-      "salaryPeriod": "annual",
+      "id": "812ab29a-90b3-4048-8e8b-72f028f75ce9",
+      "title": "Platform Engineer II (Virtualization) (Onsite Role)",
+      "company": "Oreillyauto",
+      "companyDomain": "oreillyauto.com",
+      "location": "Headquarters",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T14:05:21.312Z",
-      "url": "https://www.dreamworkhq.com/job/7a4dc385-35c4-44fa-9837-f8c318376f83?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "postedAt": "2026-08-19T14:05:26.593Z",
+      "firstIndexedAt": "2026-08-20T14:06:58.087Z",
+      "url": "https://www.dreamworkhq.com/job/812ab29a-90b3-4048-8e8b-72f028f75ce9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "0f326fcb-08b6-49d9-b5e8-d097798e5265",
@@ -4803,6 +4833,21 @@
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T14:05:21.312Z",
       "url": "https://www.dreamworkhq.com/job/60b62f61-4091-48d1-a811-7a7cd56db346?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "7a4dc385-35c4-44fa-9837-f8c318376f83",
+      "title": "Junior Cloud Engineer",
+      "company": "Oscar Technology",
+      "companyDomain": "oscarassociates.co.uk",
+      "location": "Stoke-on-Trent",
+      "remoteType": "onsite",
+      "salaryMin": 64000,
+      "salaryMax": 83000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T14:05:21.312Z",
+      "url": "https://www.dreamworkhq.com/job/7a4dc385-35c4-44fa-9837-f8c318376f83?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "63e77c13-e7b8-411f-a98e-ae51fa6c2749",
@@ -5090,21 +5135,6 @@
       "url": "https://www.dreamworkhq.com/job/24a97f94-5dca-4e69-a570-1433f0c5a42e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "e4fb60f1-15f9-48d0-b908-03d5a5b26de6",
-      "title": "Devops Engineer",
-      "company": "EURES Netherlands",
-      "companyDomain": "sourcepower.nl",
-      "location": "Gelderland, Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T01:12:16.312Z",
-      "firstIndexedAt": "2026-08-20T11:33:57.332Z",
-      "url": "https://www.dreamworkhq.com/job/e4fb60f1-15f9-48d0-b908-03d5a5b26de6?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "e199777f-b615-4d15-8d00-cf3d00d82d53",
       "title": "Java Devops Engineer",
       "company": "EURES Netherlands",
@@ -5118,6 +5148,21 @@
       "postedAt": "2026-08-20T01:12:10.346Z",
       "firstIndexedAt": "2026-08-20T11:33:57.332Z",
       "url": "https://www.dreamworkhq.com/job/e199777f-b615-4d15-8d00-cf3d00d82d53?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "e4fb60f1-15f9-48d0-b908-03d5a5b26de6",
+      "title": "Devops Engineer",
+      "company": "EURES Netherlands",
+      "companyDomain": "sourcepower.nl",
+      "location": "Gelderland, Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T01:12:16.312Z",
+      "firstIndexedAt": "2026-08-20T11:33:57.332Z",
+      "url": "https://www.dreamworkhq.com/job/e4fb60f1-15f9-48d0-b908-03d5a5b26de6?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "f2168913-8073-48d0-a4a3-053c92a985cf",
@@ -5285,21 +5330,6 @@
       "url": "https://www.dreamworkhq.com/job/23cfbae3-6b8b-4c2e-8a4e-b98c9423a5de?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "687ab125-e126-417d-a2f7-96a4868a7e52",
-      "title": "DevOps Engineer, Video Intelligence",
-      "company": "NCS",
-      "companyDomain": "ncs.co",
-      "location": "Singapore, , Singapore",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T07:37:48.422Z",
-      "firstIndexedAt": "2026-08-20T10:02:26.455Z",
-      "url": "https://www.dreamworkhq.com/job/687ab125-e126-417d-a2f7-96a4868a7e52?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "677b0a06-5906-42bb-855f-c8641b1fd8af",
       "title": "Senior DevOps Engineer, Video Intelligence ",
       "company": "NCS",
@@ -5313,6 +5343,21 @@
       "postedAt": "2026-08-19T07:44:24.584Z",
       "firstIndexedAt": "2026-08-20T10:02:26.455Z",
       "url": "https://www.dreamworkhq.com/job/677b0a06-5906-42bb-855f-c8641b1fd8af?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "687ab125-e126-417d-a2f7-96a4868a7e52",
+      "title": "DevOps Engineer, Video Intelligence",
+      "company": "NCS",
+      "companyDomain": "ncs.co",
+      "location": "Singapore, , Singapore",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T07:37:48.422Z",
+      "firstIndexedAt": "2026-08-20T10:02:26.455Z",
+      "url": "https://www.dreamworkhq.com/job/687ab125-e126-417d-a2f7-96a4868a7e52?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "db21bf1b-568b-4194-bbcc-3179c15e8ad3",
@@ -5360,81 +5405,6 @@
       "url": "https://www.dreamworkhq.com/job/3c323d44-fc95-4679-854b-ebdbfd63a6f0?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "cf4e17df-e42f-4ce1-ba52-d576ae9e5282",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Cardiff",
-      "remoteType": "remote",
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/cf4e17df-e42f-4ce1-ba52-d576ae9e5282?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "6be973af-6387-4f60-85c2-6f9554af2c9a",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Plymouth",
-      "remoteType": "remote",
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/6be973af-6387-4f60-85c2-6f9554af2c9a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "66dcab5c-3ede-4a74-ab22-9c111d157530",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Hull",
-      "remoteType": "remote",
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/66dcab5c-3ede-4a74-ab22-9c111d157530?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "87e47822-ac6d-423a-a1c0-0947750b65a9",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Belfast",
-      "remoteType": "remote",
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/87e47822-ac6d-423a-a1c0-0947750b65a9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "003f680e-b441-4d5e-9871-e26c37298b07",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Leicester",
-      "remoteType": "remote",
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/003f680e-b441-4d5e-9871-e26c37298b07?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "fa3e8ecf-a6a5-4863-8934-8f03c5fb9e2b",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
       "company": "Qualify Nation Recruitment",
@@ -5448,51 +5418,6 @@
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T10:01:52.291Z",
       "url": "https://www.dreamworkhq.com/job/fa3e8ecf-a6a5-4863-8934-8f03c5fb9e2b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "436b9304-a0e2-49c0-a2d8-c1372f73db85",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Leeds",
-      "remoteType": "remote",
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/436b9304-a0e2-49c0-a2d8-c1372f73db85?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "f781feb7-b21a-438c-96cc-994636346f61",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Brighton",
-      "remoteType": "remote",
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/f781feb7-b21a-438c-96cc-994636346f61?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "0d733248-699d-4ba7-b9c9-f7f061c581fe",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "company": "Qualify Nation Recruitment",
-      "companyDomain": "qualifynation.co.uk",
-      "location": "Glasgow",
-      "remoteType": null,
-      "salaryMin": 36000,
-      "salaryMax": 48000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/0d733248-699d-4ba7-b9c9-f7f061c581fe?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "9100c023-3f72-40d3-b8e3-4a2b7f4aaf10",
@@ -5510,6 +5435,36 @@
       "url": "https://www.dreamworkhq.com/job/9100c023-3f72-40d3-b8e3-4a2b7f4aaf10?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "03039cfc-8204-47ab-a754-cdda39cab1d0",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Birmingham",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/03039cfc-8204-47ab-a754-cdda39cab1d0?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "66dcab5c-3ede-4a74-ab22-9c111d157530",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Hull",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/66dcab5c-3ede-4a74-ab22-9c111d157530?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "68754577-704f-4ec2-af8e-a88bfdf83a44",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
       "company": "Qualify Nation Recruitment",
@@ -5525,11 +5480,11 @@
       "url": "https://www.dreamworkhq.com/job/68754577-704f-4ec2-af8e-a88bfdf83a44?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "bdfe3e26-6953-4598-a8e3-eb3c2f019691",
+      "id": "436b9304-a0e2-49c0-a2d8-c1372f73db85",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
       "company": "Qualify Nation Recruitment",
       "companyDomain": "qualifynation.co.uk",
-      "location": "Nottingham",
+      "location": "Leeds",
       "remoteType": "remote",
       "salaryMin": 36000,
       "salaryMax": 48000,
@@ -5537,7 +5492,67 @@
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/bdfe3e26-6953-4598-a8e3-eb3c2f019691?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/436b9304-a0e2-49c0-a2d8-c1372f73db85?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "003f680e-b441-4d5e-9871-e26c37298b07",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Leicester",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/003f680e-b441-4d5e-9871-e26c37298b07?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "cf4e17df-e42f-4ce1-ba52-d576ae9e5282",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Cardiff",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/cf4e17df-e42f-4ce1-ba52-d576ae9e5282?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "988416d1-a42b-4bbb-9f35-c5f0035cbb75",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Sheffield",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/988416d1-a42b-4bbb-9f35-c5f0035cbb75?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "6be973af-6387-4f60-85c2-6f9554af2c9a",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Plymouth",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/6be973af-6387-4f60-85c2-6f9554af2c9a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "015a7c58-49a4-41fc-aefd-0570cc480173",
@@ -5555,19 +5570,19 @@
       "url": "https://www.dreamworkhq.com/job/015a7c58-49a4-41fc-aefd-0570cc480173?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "9277e1d6-f2c6-487f-9214-377f72aff5e1",
+      "id": "0d733248-699d-4ba7-b9c9-f7f061c581fe",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
       "company": "Qualify Nation Recruitment",
       "companyDomain": "qualifynation.co.uk",
-      "location": "Liverpool",
-      "remoteType": "remote",
+      "location": "Glasgow",
+      "remoteType": null,
       "salaryMin": 36000,
       "salaryMax": 48000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/9277e1d6-f2c6-487f-9214-377f72aff5e1?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/0d733248-699d-4ba7-b9c9-f7f061c581fe?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "0f62c4fa-9006-4d75-a69d-1ed52600f2e3",
@@ -5585,11 +5600,11 @@
       "url": "https://www.dreamworkhq.com/job/0f62c4fa-9006-4d75-a69d-1ed52600f2e3?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "988416d1-a42b-4bbb-9f35-c5f0035cbb75",
+      "id": "87e47822-ac6d-423a-a1c0-0947750b65a9",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
       "company": "Qualify Nation Recruitment",
       "companyDomain": "qualifynation.co.uk",
-      "location": "Sheffield",
+      "location": "Belfast",
       "remoteType": "remote",
       "salaryMin": 36000,
       "salaryMax": 48000,
@@ -5597,7 +5612,52 @@
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T10:01:52.291Z",
-      "url": "https://www.dreamworkhq.com/job/988416d1-a42b-4bbb-9f35-c5f0035cbb75?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/87e47822-ac6d-423a-a1c0-0947750b65a9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "bdfe3e26-6953-4598-a8e3-eb3c2f019691",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Nottingham",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/bdfe3e26-6953-4598-a8e3-eb3c2f019691?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "b5fb33a5-6e6b-4812-8a67-2b070454e995",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "London",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/b5fb33a5-6e6b-4812-8a67-2b070454e995?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "f781feb7-b21a-438c-96cc-994636346f61",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "company": "Qualify Nation Recruitment",
+      "companyDomain": "qualifynation.co.uk",
+      "location": "Brighton",
+      "remoteType": "remote",
+      "salaryMin": 36000,
+      "salaryMax": 48000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T10:01:52.291Z",
+      "url": "https://www.dreamworkhq.com/job/f781feb7-b21a-438c-96cc-994636346f61?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "999f84bb-7fad-403d-82d4-fd0b68f29662",
@@ -5840,21 +5900,6 @@
       "url": "https://www.dreamworkhq.com/job/f8e7183c-c6a0-42c7-b75f-a220e25f8044?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "12c084de-8f15-4d3a-8b0c-dcea8e123c56",
-      "title": "Senior Staff Site Reliability Engineer",
-      "company": "Nvidia",
-      "companyDomain": "nvidia.com",
-      "location": "India, Bengaluru",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-20T23:42:12.804Z",
-      "firstIndexedAt": "2026-08-20T07:57:51.265Z",
-      "url": "https://www.dreamworkhq.com/job/12c084de-8f15-4d3a-8b0c-dcea8e123c56?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "444baecb-4035-4d21-bf6f-834dafe77da9",
       "title": "Site Reliability Engineer",
       "company": "Nvidia",
@@ -5868,6 +5913,21 @@
       "postedAt": "2026-08-20T23:42:12.688Z",
       "firstIndexedAt": "2026-08-20T07:57:51.265Z",
       "url": "https://www.dreamworkhq.com/job/444baecb-4035-4d21-bf6f-834dafe77da9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "12c084de-8f15-4d3a-8b0c-dcea8e123c56",
+      "title": "Senior Staff Site Reliability Engineer",
+      "company": "Nvidia",
+      "companyDomain": "nvidia.com",
+      "location": "India, Bengaluru",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-20T23:42:12.804Z",
+      "firstIndexedAt": "2026-08-20T07:57:51.265Z",
+      "url": "https://www.dreamworkhq.com/job/12c084de-8f15-4d3a-8b0c-dcea8e123c56?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "432112a3-1f04-45d5-8a4b-c5ebb498650f",
@@ -5930,21 +5990,6 @@
       "url": "https://www.dreamworkhq.com/job/2b51634c-4574-423c-b569-ab9775e01efd?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "0b2e102e-30c5-41b4-b905-a51a80a697e7",
-      "title": "DevOps Engineer",
-      "company": "Sigma Software",
-      "companyDomain": "sigma.software",
-      "location": "Kyiv, Kyiv city, Ukraine",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T14:04:24.282Z",
-      "firstIndexedAt": "2026-08-20T07:01:02.291Z",
-      "url": "https://www.dreamworkhq.com/job/0b2e102e-30c5-41b4-b905-a51a80a697e7?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "7de83387-9a93-44ee-889c-c4ae313d6fe1",
       "title": "DevOps Engineer",
       "company": "Sigma Software",
@@ -5958,6 +6003,21 @@
       "postedAt": "2026-08-19T14:05:13.456Z",
       "firstIndexedAt": "2026-08-20T07:01:02.291Z",
       "url": "https://www.dreamworkhq.com/job/7de83387-9a93-44ee-889c-c4ae313d6fe1?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "0b2e102e-30c5-41b4-b905-a51a80a697e7",
+      "title": "DevOps Engineer",
+      "company": "Sigma Software",
+      "companyDomain": "sigma.software",
+      "location": "Kyiv, Kyiv city, Ukraine",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T14:04:24.282Z",
+      "firstIndexedAt": "2026-08-20T07:01:02.291Z",
+      "url": "https://www.dreamworkhq.com/job/0b2e102e-30c5-41b4-b905-a51a80a697e7?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "9369e4fd-5c05-4963-abef-74a5f1684b96",
@@ -6080,7 +6140,7 @@
       "url": "https://www.dreamworkhq.com/job/5fdafe93-a7cb-4bfc-880d-a69285de4286?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "0fe6c468-113c-4810-9db3-05d5a1cd3a33",
+      "id": "25ac6e02-9c88-42ca-98fb-b37b917367f0",
       "title": "Site Reliability Engineer",
       "company": "Nttlimited",
       "companyDomain": "nttlimitedinternal.service-now.com",
@@ -6090,9 +6150,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T19:51:15.740Z",
+      "postedAt": "2026-08-07T19:51:15.704Z",
       "firstIndexedAt": "2026-08-20T06:36:17.764Z",
-      "url": "https://www.dreamworkhq.com/job/0fe6c468-113c-4810-9db3-05d5a1cd3a33?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/25ac6e02-9c88-42ca-98fb-b37b917367f0?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "d1fb48bf-e614-4aac-9f44-e761d3c0ae1e",
@@ -6155,21 +6215,6 @@
       "url": "https://www.dreamworkhq.com/job/2b9e50ff-5cc7-4096-91f1-9e3e65ead0f6?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "36999923-6050-4a19-9dc9-df5547ab3cf8",
-      "title": "Développeur Java confirmé / DevOps - Colomiers",
-      "company": "SopraSteria1",
-      "companyDomain": "soprasteria.com",
-      "location": "Colomiers, Occitanie, France",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T08:50:55.764Z",
-      "firstIndexedAt": "2026-08-20T06:01:42.377Z",
-      "url": "https://www.dreamworkhq.com/job/36999923-6050-4a19-9dc9-df5547ab3cf8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "2d5788ba-b134-4000-86e5-564a33efe93f",
       "title": "Cloud Devops Module Lead",
       "company": "SopraSteria1",
@@ -6183,6 +6228,21 @@
       "postedAt": "2026-08-20T05:56:26.301Z",
       "firstIndexedAt": "2026-08-20T06:01:42.377Z",
       "url": "https://www.dreamworkhq.com/job/2d5788ba-b134-4000-86e5-564a33efe93f?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "36999923-6050-4a19-9dc9-df5547ab3cf8",
+      "title": "Développeur Java confirmé / DevOps - Colomiers",
+      "company": "SopraSteria1",
+      "companyDomain": "soprasteria.com",
+      "location": "Colomiers, Occitanie, France",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T08:50:55.764Z",
+      "firstIndexedAt": "2026-08-20T06:01:42.377Z",
+      "url": "https://www.dreamworkhq.com/job/36999923-6050-4a19-9dc9-df5547ab3cf8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "ce8487bd-ead3-4659-9b64-4e43d0bfa119",
@@ -6290,21 +6350,6 @@
       "url": "https://www.dreamworkhq.com/job/d995af6d-0674-403b-a477-810e5a7c83a6?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "c018c09a-2461-4ff4-9b98-8de4b3c6488d",
-      "title": "Senior Software Engineer, AI/ML GenAI, Google Cloud Compute Infrastructure",
-      "company": "Google",
-      "companyDomain": "google.com",
-      "location": "Mountain View, CA, USA",
-      "remoteType": "onsite",
-      "salaryMin": 174000,
-      "salaryMax": 252000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-20T04:34:35.265Z",
-      "url": "https://www.dreamworkhq.com/job/c018c09a-2461-4ff4-9b98-8de4b3c6488d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "7027f8e4-db9f-4a71-a171-951a25714052",
       "title": "Staff Software Engineer, Infrastructure, Google Cloud Security and Privacy",
       "company": "Google",
@@ -6318,6 +6363,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-20T04:34:35.265Z",
       "url": "https://www.dreamworkhq.com/job/7027f8e4-db9f-4a71-a171-951a25714052?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "c018c09a-2461-4ff4-9b98-8de4b3c6488d",
+      "title": "Senior Software Engineer, AI/ML GenAI, Google Cloud Compute Infrastructure",
+      "company": "Google",
+      "companyDomain": "google.com",
+      "location": "Mountain View, CA, USA",
+      "remoteType": "onsite",
+      "salaryMin": 174000,
+      "salaryMax": 252000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-20T04:34:35.265Z",
+      "url": "https://www.dreamworkhq.com/job/c018c09a-2461-4ff4-9b98-8de4b3c6488d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "dd954fcb-588f-4ce8-9a7b-79733dccf5b4",
@@ -6645,9 +6705,24 @@
       "salaryMax": 245200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T20:04:15.537Z",
+      "postedAt": "2026-08-19T23:47:19.220Z",
       "firstIndexedAt": "2026-08-20T01:35:44.661Z",
       "url": "https://www.dreamworkhq.com/job/b72b297d-ed56-471b-952a-bd60c7a88b95?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "cf392577-2d4d-4f01-96f0-a94754fe5e6a",
+      "title": "DevOps Consultant Kubernetes (m/w/d)",
+      "company": "Devoteam",
+      "companyDomain": "devoteam.com",
+      "location": "Stuttgart, BW, Germany",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T15:01:37.583Z",
+      "firstIndexedAt": "2026-08-20T01:01:57.577Z",
+      "url": "https://www.dreamworkhq.com/job/cf392577-2d4d-4f01-96f0-a94754fe5e6a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "1d5e458d-e20f-446a-8de5-f44dff268b67",
@@ -6678,21 +6753,6 @@
       "postedAt": "2026-08-19T15:01:13.325Z",
       "firstIndexedAt": "2026-08-20T01:01:57.577Z",
       "url": "https://www.dreamworkhq.com/job/84a8e4e0-814e-47f5-b1e9-92c424c00ff5?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "cf392577-2d4d-4f01-96f0-a94754fe5e6a",
-      "title": "DevOps Consultant Kubernetes (m/w/d)",
-      "company": "Devoteam",
-      "companyDomain": "devoteam.com",
-      "location": "Stuttgart, BW, Germany",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T15:01:37.583Z",
-      "firstIndexedAt": "2026-08-20T01:01:57.577Z",
-      "url": "https://www.dreamworkhq.com/job/cf392577-2d4d-4f01-96f0-a94754fe5e6a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "26e2470b-b899-4d1d-9495-53e90df0e2af",
@@ -6845,19 +6905,19 @@
       "url": "https://www.dreamworkhq.com/job/85a8af4d-adef-40cf-8fcd-9ce1f76ffb75?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "957189d4-9416-4c2c-9ad7-60087ec7d0d2",
+      "id": "daa2aa67-9473-4d9d-bb69-7b639219f24a",
       "title": "Cloud Infrastructure Engineer",
       "company": "Gdit",
       "companyDomain": "gdit.com",
       "location": "Any Location / Remote",
       "remoteType": "remote",
-      "salaryMin": 129813,
-      "salaryMax": 161000,
+      "salaryMin": 112840,
+      "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T09:32:23.848Z",
+      "postedAt": "2026-08-19T09:32:23.942Z",
       "firstIndexedAt": "2026-08-19T23:33:57.724Z",
-      "url": "https://www.dreamworkhq.com/job/957189d4-9416-4c2c-9ad7-60087ec7d0d2?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/daa2aa67-9473-4d9d-bb69-7b639219f24a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "258329cc-b531-4af0-bdf5-7958d6150a93",
@@ -6875,21 +6935,6 @@
       "url": "https://www.dreamworkhq.com/job/258329cc-b531-4af0-bdf5-7958d6150a93?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "df28ea06-8a21-4a7f-a341-64b5a2a8231d",
-      "title": "Lead Platform Engineer",
-      "company": "Trustbank",
-      "companyDomain": "trustbank.sg",
-      "location": "Singapore",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-18T01:48:33.000Z",
-      "firstIndexedAt": "2026-08-19T23:00:21.685Z",
-      "url": "https://www.dreamworkhq.com/job/df28ea06-8a21-4a7f-a341-64b5a2a8231d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "6f591e55-5d79-43cf-be58-7b212b569abf",
       "title": "Senior Platform Engineer",
       "company": "Trustbank",
@@ -6903,6 +6948,21 @@
       "postedAt": "2026-08-18T01:58:43.000Z",
       "firstIndexedAt": "2026-08-19T23:00:21.685Z",
       "url": "https://www.dreamworkhq.com/job/6f591e55-5d79-43cf-be58-7b212b569abf?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "df28ea06-8a21-4a7f-a341-64b5a2a8231d",
+      "title": "Lead Platform Engineer",
+      "company": "Trustbank",
+      "companyDomain": "trustbank.sg",
+      "location": "Singapore",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-18T01:48:33.000Z",
+      "firstIndexedAt": "2026-08-19T23:00:21.685Z",
+      "url": "https://www.dreamworkhq.com/job/df28ea06-8a21-4a7f-a341-64b5a2a8231d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "11cd5201-a825-4da7-a17c-32f6462546ac",
@@ -7220,21 +7280,6 @@
       "url": "https://www.dreamworkhq.com/job/f26a8069-4c37-4e95-b86b-679ed2469efb?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "3c11d5c7-3530-4253-bddb-0bc3f8dc4eca",
-      "title": "Site Reliability Engineering Lead  (f/m/d)",
-      "company": "Sonarsource",
-      "companyDomain": "sonarsource.com",
-      "location": "Bochum",
-      "remoteType": "onsite",
-      "salaryMin": 113000,
-      "salaryMax": 173000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T14:18:35.084Z",
-      "firstIndexedAt": "2026-08-19T18:45:43.580Z",
-      "url": "https://www.dreamworkhq.com/job/3c11d5c7-3530-4253-bddb-0bc3f8dc4eca?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "2f5edbc3-a08e-463b-9bbc-fa2e8dd69c6e",
       "title": "Site Reliability Engineering Lead",
       "company": "Sonarsource",
@@ -7248,6 +7293,21 @@
       "postedAt": "2026-08-18T14:16:33.246Z",
       "firstIndexedAt": "2026-08-19T18:45:43.580Z",
       "url": "https://www.dreamworkhq.com/job/2f5edbc3-a08e-463b-9bbc-fa2e8dd69c6e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "3c11d5c7-3530-4253-bddb-0bc3f8dc4eca",
+      "title": "Site Reliability Engineering Lead  (f/m/d)",
+      "company": "Sonarsource",
+      "companyDomain": "sonarsource.com",
+      "location": "Bochum",
+      "remoteType": "onsite",
+      "salaryMin": 113000,
+      "salaryMax": 173000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-18T14:18:35.084Z",
+      "firstIndexedAt": "2026-08-19T18:45:43.580Z",
+      "url": "https://www.dreamworkhq.com/job/3c11d5c7-3530-4253-bddb-0bc3f8dc4eca?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "93025dee-2f70-46a8-849c-dfafe95b620c",
@@ -7265,34 +7325,49 @@
       "url": "https://www.dreamworkhq.com/job/93025dee-2f70-46a8-849c-dfafe95b620c?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "167fd3bd-57ef-4f5a-956c-6e841e943178",
+      "id": "887f8bb4-8b37-405d-a97e-db7ea88691a1",
       "title": "Senior DevOps (AWS) Engineer",
       "company": "N-iX",
       "companyDomain": "n-ix.com",
-      "location": "Portugal",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-10T07:49:09.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/167fd3bd-57ef-4f5a-956c-6e841e943178?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "3c4b728d-8818-4973-802b-4b070705a601",
-      "title": "Senior DevOps / Site Reliability Engineer ",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Colombia",
+      "location": "Spain",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T15:54:09.000Z",
+      "postedAt": "2026-08-10T07:49:08.000Z",
       "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/3c4b728d-8818-4973-802b-4b070705a601?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/887f8bb4-8b37-405d-a97e-db7ea88691a1?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "16b3f451-f94b-4128-a1e6-71dd94bb2171",
+      "title": "Senior DevOps Engineer (GCP & AWS)",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Ukraine",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-20T08:52:12.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/16b3f451-f94b-4128-a1e6-71dd94bb2171?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "1e752770-67af-454a-8b1b-dc3656f14ad9",
+      "title": "Senior DevOps (AWS) Engineer",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Poland",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-10T07:47:22.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/1e752770-67af-454a-8b1b-dc3656f14ad9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "9d892632-c890-4f5d-bb22-d716fbba9876",
@@ -7310,21 +7385,6 @@
       "url": "https://www.dreamworkhq.com/job/9d892632-c890-4f5d-bb22-d716fbba9876?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "4c64518f-30e8-4ac0-be6b-804e5b6afc2e",
-      "title": "Senior DevOps (AWS) Engineer",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Romania",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-10T07:49:34.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/4c64518f-30e8-4ac0-be6b-804e5b6afc2e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "0a0120a3-7d21-4c15-8552-b044b6f1d4bf",
       "title": "Senior DevOps / Site Reliability Engineer ",
       "company": "N-iX",
@@ -7338,6 +7398,51 @@
       "postedAt": "2026-07-15T07:40:20.000Z",
       "firstIndexedAt": "2026-08-19T18:33:09.525Z",
       "url": "https://www.dreamworkhq.com/job/0a0120a3-7d21-4c15-8552-b044b6f1d4bf?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "167fd3bd-57ef-4f5a-956c-6e841e943178",
+      "title": "Senior DevOps (AWS) Engineer",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Portugal",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-10T07:49:09.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/167fd3bd-57ef-4f5a-956c-6e841e943178?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "3fc16200-e703-4b16-ab2c-885bbbfcd62d",
+      "title": "Senior DevOps / Site Reliability Engineer ",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Argentina",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-14T15:55:25.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/3fc16200-e703-4b16-ab2c-885bbbfcd62d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "3c4b728d-8818-4973-802b-4b070705a601",
+      "title": "Senior DevOps / Site Reliability Engineer ",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Colombia",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-14T15:54:09.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/3c4b728d-8818-4973-802b-4b070705a601?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "bd0c6110-f8b8-4984-843b-61914a3bdcca",
@@ -7370,51 +7475,6 @@
       "url": "https://www.dreamworkhq.com/job/c5c4f106-11c6-4be5-aabb-87015c265aa9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "887f8bb4-8b37-405d-a97e-db7ea88691a1",
-      "title": "Senior DevOps (AWS) Engineer",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Spain",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-10T07:49:08.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/887f8bb4-8b37-405d-a97e-db7ea88691a1?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "1e752770-67af-454a-8b1b-dc3656f14ad9",
-      "title": "Senior DevOps (AWS) Engineer",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Poland",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-10T07:47:22.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/1e752770-67af-454a-8b1b-dc3656f14ad9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "3fc16200-e703-4b16-ab2c-885bbbfcd62d",
-      "title": "Senior DevOps / Site Reliability Engineer ",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Argentina",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T15:55:25.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/3fc16200-e703-4b16-ab2c-885bbbfcd62d?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "867a5ffb-f54a-4f0a-8d13-59e0b6a15cbf",
       "title": "Senior Data Platform Engineer",
       "company": "N-iX",
@@ -7445,49 +7505,19 @@
       "url": "https://www.dreamworkhq.com/job/d409e274-8591-4921-8573-25ef5549294f?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "931710be-86a9-4563-85af-f31f85bf792e",
-      "title": "Lead DevOps Engineer (AWS Migration & Security) ",
+      "id": "7b3b2d06-7b4b-4801-9cef-3a96d5389a75",
+      "title": " Lead DevOps Engineer (AWS Migration & Security) ",
       "company": "N-iX",
       "companyDomain": "n-ix.com",
-      "location": "Brazil",
+      "location": "Ukraine",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T08:18:47.000Z",
+      "postedAt": "2026-08-11T08:18:43.000Z",
       "firstIndexedAt": "2026-08-19T18:33:08.193Z",
-      "url": "https://www.dreamworkhq.com/job/931710be-86a9-4563-85af-f31f85bf792e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "3f6f8d3a-3e94-4a66-8e12-bef114ce9364",
-      "title": "Lead DevOps Engineer (AWS Migration & Security) ",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Poland",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T08:18:44.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
-      "url": "https://www.dreamworkhq.com/job/3f6f8d3a-3e94-4a66-8e12-bef114ce9364?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "91b980fc-fd3f-40db-a5dc-66640a031588",
-      "title": "Lead/Senior DevOps Engineer (AWS)",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Europe; Ukraine",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T18:43:45.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
-      "url": "https://www.dreamworkhq.com/job/91b980fc-fd3f-40db-a5dc-66640a031588?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/7b3b2d06-7b4b-4801-9cef-3a96d5389a75?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "5868c574-7b1b-4aa3-b37e-71d667cf8a56",
@@ -7505,6 +7535,36 @@
       "url": "https://www.dreamworkhq.com/job/5868c574-7b1b-4aa3-b37e-71d667cf8a56?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "91b980fc-fd3f-40db-a5dc-66640a031588",
+      "title": "Lead/Senior DevOps Engineer (AWS)",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Europe; Ukraine",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T18:43:45.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
+      "url": "https://www.dreamworkhq.com/job/91b980fc-fd3f-40db-a5dc-66640a031588?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "3f6f8d3a-3e94-4a66-8e12-bef114ce9364",
+      "title": "Lead DevOps Engineer (AWS Migration & Security) ",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Poland",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-11T08:18:44.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
+      "url": "https://www.dreamworkhq.com/job/3f6f8d3a-3e94-4a66-8e12-bef114ce9364?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "e551d9ed-e35c-4de9-84cf-5ff75ced73af",
       "title": "Middle DevOps Engineer (GCP)",
       "company": "N-iX",
@@ -7520,19 +7580,19 @@
       "url": "https://www.dreamworkhq.com/job/e551d9ed-e35c-4de9-84cf-5ff75ced73af?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "7b3b2d06-7b4b-4801-9cef-3a96d5389a75",
-      "title": " Lead DevOps Engineer (AWS Migration & Security) ",
+      "id": "931710be-86a9-4563-85af-f31f85bf792e",
+      "title": "Lead DevOps Engineer (AWS Migration & Security) ",
       "company": "N-iX",
       "companyDomain": "n-ix.com",
-      "location": "Ukraine",
+      "location": "Brazil",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T08:18:43.000Z",
+      "postedAt": "2026-08-11T08:18:47.000Z",
       "firstIndexedAt": "2026-08-19T18:33:08.193Z",
-      "url": "https://www.dreamworkhq.com/job/7b3b2d06-7b4b-4801-9cef-3a96d5389a75?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/931710be-86a9-4563-85af-f31f85bf792e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "6803d7a4-a066-4091-8634-d1ffc224059c",
@@ -7565,21 +7625,6 @@
       "url": "https://www.dreamworkhq.com/job/0b6a28df-c81e-4032-bd20-e357632409ba?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "01a8ad8e-a324-4d54-9884-c60a256183f4",
-      "title": "Cloud Infrastructure Engineer",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Poland",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-12T15:15:41.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
-      "url": "https://www.dreamworkhq.com/job/01a8ad8e-a324-4d54-9884-c60a256183f4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "f0f29458-c41e-4d9b-a7bc-8b934a8acdd4",
       "title": "Lead Cloud Engineer (Azure) — Interview Experts Needed",
       "company": "N-iX",
@@ -7593,6 +7638,21 @@
       "postedAt": "2026-07-22T11:18:59.000Z",
       "firstIndexedAt": "2026-08-19T18:33:08.193Z",
       "url": "https://www.dreamworkhq.com/job/f0f29458-c41e-4d9b-a7bc-8b934a8acdd4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "01a8ad8e-a324-4d54-9884-c60a256183f4",
+      "title": "Cloud Infrastructure Engineer",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Poland",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-12T15:15:41.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
+      "url": "https://www.dreamworkhq.com/job/01a8ad8e-a324-4d54-9884-c60a256183f4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "245ad255-b345-4fbd-8fa3-9128856fe245",
@@ -7685,21 +7745,6 @@
       "url": "https://www.dreamworkhq.com/job/519aa8f9-c66c-481e-9758-8cace7851985?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "3822df63-3230-430c-934e-4d23536418d9",
-      "title": "Cloud Engineer, Manager",
-      "company": "Zebra",
-      "companyDomain": "zebra.com",
-      "location": "Bengaluru, India",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-19T16:47:56.841Z",
-      "url": "https://www.dreamworkhq.com/job/3822df63-3230-430c-934e-4d23536418d9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "5b1d6454-cd01-4281-a0c0-fffd6fb2d699",
       "title": "Cloud Engineering, Advanced",
       "company": "Zebra",
@@ -7728,6 +7773,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-19T16:47:56.841Z",
       "url": "https://www.dreamworkhq.com/job/94f759d0-a6aa-4110-89e8-3c8360d46eae?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "3822df63-3230-430c-934e-4d23536418d9",
+      "title": "Cloud Engineer, Manager",
+      "company": "Zebra",
+      "companyDomain": "zebra.com",
+      "location": "Bengaluru, India",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-19T16:47:56.841Z",
+      "url": "https://www.dreamworkhq.com/job/3822df63-3230-430c-934e-4d23536418d9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "805c9dd9-bae6-49c6-9d1c-342f78af45c3",
@@ -7775,6 +7835,21 @@
       "url": "https://www.dreamworkhq.com/job/513011fb-0c2b-4035-a234-4d16791d21ca?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "6474257b-9af6-4019-91b8-f055ff05fcfc",
+      "title": "Devops Lead",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "India, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-11T09:53:20.000Z",
+      "firstIndexedAt": "2026-08-19T15:46:35.720Z",
+      "url": "https://www.dreamworkhq.com/job/6474257b-9af6-4019-91b8-f055ff05fcfc?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "724b8f5b-f235-4fed-bb13-1f722e3c810e",
       "title": "Devops Engineer - Qureos",
       "company": "Qureosinc",
@@ -7805,21 +7880,6 @@
       "url": "https://www.dreamworkhq.com/job/559dcf86-f6f4-493d-ae35-447f2a6725be?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "6474257b-9af6-4019-91b8-f055ff05fcfc",
-      "title": "Devops Lead",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "India, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-11T09:53:20.000Z",
-      "firstIndexedAt": "2026-08-19T15:46:35.720Z",
-      "url": "https://www.dreamworkhq.com/job/6474257b-9af6-4019-91b8-f055ff05fcfc?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "b92cff32-3101-4f51-a7f7-8bd54db87f2f",
       "title": "Site Reliability Engineer (Remote)",
       "company": "Qureosinc",
@@ -7835,21 +7895,6 @@
       "url": "https://www.dreamworkhq.com/job/b92cff32-3101-4f51-a7f7-8bd54db87f2f?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "83ca05ed-d122-4995-b953-12b24d35da5e",
-      "title": "DevOps Engineer",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Karachi, PK",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-20T18:14:45.000Z",
-      "firstIndexedAt": "2026-08-19T15:46:26.071Z",
-      "url": "https://www.dreamworkhq.com/job/83ca05ed-d122-4995-b953-12b24d35da5e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "5f3fa043-8ed2-4950-8fbe-a6d4d8ec6ada",
       "title": "DevOps & Site Reliability Engineer (GCP)",
       "company": "Qureosinc",
@@ -7863,6 +7908,21 @@
       "postedAt": "2026-07-02T07:47:05.000Z",
       "firstIndexedAt": "2026-08-19T15:46:26.071Z",
       "url": "https://www.dreamworkhq.com/job/5f3fa043-8ed2-4950-8fbe-a6d4d8ec6ada?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "83ca05ed-d122-4995-b953-12b24d35da5e",
+      "title": "DevOps Engineer",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "Karachi, PK",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-20T18:14:45.000Z",
+      "firstIndexedAt": "2026-08-19T15:46:26.071Z",
+      "url": "https://www.dreamworkhq.com/job/83ca05ed-d122-4995-b953-12b24d35da5e?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "c4bade60-3b7a-4d5b-b9a7-141e4b1367e3",
@@ -8000,7 +8060,7 @@
       "url": "https://www.dreamworkhq.com/job/c3e7ae4c-abd1-43e4-b8d0-973307b84589?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "f401eaa7-73c2-4eec-9504-00d512ac3775",
+      "id": "cd15abe3-944c-4625-817d-0b56b067beff",
       "title": "Senior DevOps Engineer",
       "company": "Unifonic",
       "companyDomain": "unifonic.com",
@@ -8010,9 +8070,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2023-02-21T12:02:37.000Z",
+      "postedAt": "2026-04-23T11:31:17.000Z",
       "firstIndexedAt": "2026-08-19T14:36:55.631Z",
-      "url": "https://www.dreamworkhq.com/job/f401eaa7-73c2-4eec-9504-00d512ac3775?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/cd15abe3-944c-4625-817d-0b56b067beff?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "3c724406-d1ca-4f23-9ed6-402b73d1eebd",
@@ -8045,21 +8105,6 @@
       "url": "https://www.dreamworkhq.com/job/a25f7da3-b0b8-472b-8621-659e649f8c92?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "58bb838d-e901-450b-84ea-1c051ede0348",
-      "title": "Site Reliability Engineer (SRE) -  Oracle Database Platform (all humans)",
-      "company": "Erstedigital",
-      "companyDomain": "erstedigital.com",
-      "location": "Bratislava, Bratislavský kraj, Slovakia",
-      "remoteType": "hybrid",
-      "salaryMin": 35000,
-      "salaryMax": 35000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T11:38:26.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:48.787Z",
-      "url": "https://www.dreamworkhq.com/job/58bb838d-e901-450b-84ea-1c051ede0348?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "f6ad9f6f-2183-4ed5-bca8-654dc550b4e4",
       "title": "Site Reliability Engineer (SRE) - Open Source Databases (all humans)",
       "company": "Erstedigital",
@@ -8073,6 +8118,21 @@
       "postedAt": "2026-07-09T11:41:26.000Z",
       "firstIndexedAt": "2026-08-19T14:36:48.787Z",
       "url": "https://www.dreamworkhq.com/job/f6ad9f6f-2183-4ed5-bca8-654dc550b4e4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "58bb838d-e901-450b-84ea-1c051ede0348",
+      "title": "Site Reliability Engineer (SRE) -  Oracle Database Platform (all humans)",
+      "company": "Erstedigital",
+      "companyDomain": "erstedigital.com",
+      "location": "Bratislava, Bratislavský kraj, Slovakia",
+      "remoteType": "hybrid",
+      "salaryMin": 35000,
+      "salaryMax": 35000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T11:38:26.000Z",
+      "firstIndexedAt": "2026-08-19T14:36:48.787Z",
+      "url": "https://www.dreamworkhq.com/job/58bb838d-e901-450b-84ea-1c051ede0348?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "b2edd373-1c40-4304-bc67-869d6d475d38",
@@ -8105,21 +8165,6 @@
       "url": "https://www.dreamworkhq.com/job/a2377975-83b5-4d0a-99ae-f92495f42089?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "641ed379-9493-4d62-beff-94b666cad4ab",
-      "title": "Remote Senior Devops engineer",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Penny Hill, US",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-24T08:04:32.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:30.963Z",
-      "url": "https://www.dreamworkhq.com/job/641ed379-9493-4d62-beff-94b666cad4ab?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "1d8c83c2-c044-462e-b823-22bc23843df8",
       "title": "Senior Python Developer (Django) with DevOps experience (AWS)",
       "company": "Qureosinc",
@@ -8133,81 +8178,6 @@
       "postedAt": "2026-07-30T15:02:03.000Z",
       "firstIndexedAt": "2026-08-19T14:36:30.963Z",
       "url": "https://www.dreamworkhq.com/job/1d8c83c2-c044-462e-b823-22bc23843df8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "9628cc85-3ed8-4a5f-8ecb-f8b5b9a00c3a",
-      "title": "DevOps & Site Reliability Engineer (GCP)",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Sofia, BG",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T09:47:46.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
-      "url": "https://www.dreamworkhq.com/job/9628cc85-3ed8-4a5f-8ecb-f8b5b9a00c3a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "f50ae451-76f6-4e82-b8c5-90c0f8ddf03a",
-      "title": "DevOps & Site Reliability Engineer (GCP)",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Romania, RO",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-12T11:09:11.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
-      "url": "https://www.dreamworkhq.com/job/f50ae451-76f6-4e82-b8c5-90c0f8ddf03a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "1fe9a140-5651-4a57-9b7d-27cd9d626dc2",
-      "title": "DevOps & Site Reliability Engineer (GCP)",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Georgia, GE",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T10:05:24.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
-      "url": "https://www.dreamworkhq.com/job/1fe9a140-5651-4a57-9b7d-27cd9d626dc2?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "4463fa9d-410f-4153-a1a0-d802bc241338",
-      "title": "DevOps & Site Reliability Engineer (GCP)",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Cluj-Napoca, RO",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-12T10:18:14.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
-      "url": "https://www.dreamworkhq.com/job/4463fa9d-410f-4153-a1a0-d802bc241338?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "e1d3ee88-520a-4f62-ae61-8b7727525216",
-      "title": "DevOps & Site Reliability Engineer (GCP)",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Tbilisi, GE",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-12T09:17:15.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
-      "url": "https://www.dreamworkhq.com/job/e1d3ee88-520a-4f62-ae61-8b7727525216?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "f488eea2-aa29-4db4-9c03-ced7a92ee7e8",
@@ -8225,6 +8195,21 @@
       "url": "https://www.dreamworkhq.com/job/f488eea2-aa29-4db4-9c03-ced7a92ee7e8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "f50ae451-76f6-4e82-b8c5-90c0f8ddf03a",
+      "title": "DevOps & Site Reliability Engineer (GCP)",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "Romania, RO",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-12T11:09:11.000Z",
+      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
+      "url": "https://www.dreamworkhq.com/job/f50ae451-76f6-4e82-b8c5-90c0f8ddf03a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "d573011d-915a-420e-b29b-d888afe632d1",
       "title": "DevOps & Site Reliability Engineer (GCP)",
       "company": "Qureosinc",
@@ -8238,6 +8223,66 @@
       "postedAt": "2026-08-12T11:48:51.000Z",
       "firstIndexedAt": "2026-08-19T14:36:20.667Z",
       "url": "https://www.dreamworkhq.com/job/d573011d-915a-420e-b29b-d888afe632d1?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "1fe9a140-5651-4a57-9b7d-27cd9d626dc2",
+      "title": "DevOps & Site Reliability Engineer (GCP)",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "Georgia, GE",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-11T10:05:24.000Z",
+      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
+      "url": "https://www.dreamworkhq.com/job/1fe9a140-5651-4a57-9b7d-27cd9d626dc2?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "e1d3ee88-520a-4f62-ae61-8b7727525216",
+      "title": "DevOps & Site Reliability Engineer (GCP)",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "Tbilisi, GE",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-12T09:17:15.000Z",
+      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
+      "url": "https://www.dreamworkhq.com/job/e1d3ee88-520a-4f62-ae61-8b7727525216?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "9628cc85-3ed8-4a5f-8ecb-f8b5b9a00c3a",
+      "title": "DevOps & Site Reliability Engineer (GCP)",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "Sofia, BG",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-11T09:47:46.000Z",
+      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
+      "url": "https://www.dreamworkhq.com/job/9628cc85-3ed8-4a5f-8ecb-f8b5b9a00c3a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "4463fa9d-410f-4153-a1a0-d802bc241338",
+      "title": "DevOps & Site Reliability Engineer (GCP)",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "Cluj-Napoca, RO",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-12T10:18:14.000Z",
+      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
+      "url": "https://www.dreamworkhq.com/job/4463fa9d-410f-4153-a1a0-d802bc241338?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "5804c241-ea15-4d1e-9e3d-4fdd7efe2da6",
@@ -8270,7 +8315,7 @@
       "url": "https://www.dreamworkhq.com/job/83769abe-f3b6-4d0a-a157-74d9be854df9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "5ceb7ffe-d56c-444d-9ce2-2b88694cd187",
+      "id": "9acb8a2d-04c8-4faa-a689-a31cd9d67cac",
       "title": "DevOps Track Sr.Engineer",
       "company": "HEXAWARE",
       "companyDomain": "hexaware.com",
@@ -8280,9 +8325,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T07:01:49.000Z",
+      "postedAt": "2026-08-19T07:02:54.000Z",
       "firstIndexedAt": "2026-08-19T14:31:27.466Z",
-      "url": "https://www.dreamworkhq.com/job/5ceb7ffe-d56c-444d-9ce2-2b88694cd187?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/9acb8a2d-04c8-4faa-a689-a31cd9d67cac?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "3b631e33-48aa-48c1-a22e-0898c770b0db",
@@ -8375,21 +8420,6 @@
       "url": "https://www.dreamworkhq.com/job/a1e7f568-c763-411b-a7f2-ce7e4ca9b722?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "77d6cf0d-3a8d-4171-82cb-f51c1766374f",
-      "title": "Programador/a Devops",
-      "company": "Segula Technologies",
-      "companyDomain": "segula.com",
-      "location": "Madrid, Madrid",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T13:48:01.684Z",
-      "url": "https://www.dreamworkhq.com/job/77d6cf0d-3a8d-4171-82cb-f51c1766374f?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "360d6ca9-80b7-46ce-a48a-2e3bbc56c7d4",
       "title": "DevOps Engineer",
       "company": "GFR Technologies SE",
@@ -8403,6 +8433,21 @@
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T13:48:01.684Z",
       "url": "https://www.dreamworkhq.com/job/360d6ca9-80b7-46ce-a48a-2e3bbc56c7d4?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "77d6cf0d-3a8d-4171-82cb-f51c1766374f",
+      "title": "Programador/a Devops",
+      "company": "Segula Technologies",
+      "companyDomain": "segula.com",
+      "location": "Madrid, Madrid",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T13:48:01.684Z",
+      "url": "https://www.dreamworkhq.com/job/77d6cf0d-3a8d-4171-82cb-f51c1766374f?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "f1e50e33-1b81-4aa3-bcdf-871296a82453",
@@ -8450,21 +8495,6 @@
       "url": "https://www.dreamworkhq.com/job/730b4fbe-ad59-46fd-b142-e5f04dfca5f5?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "4688f87f-938e-41ef-8d7b-31648c714a3b",
-      "title": "Senior Azure Cloud Infrastructure Engineer - Cleared",
-      "company": "Lightfeatheriollc",
-      "companyDomain": "lightfeather.io",
-      "location": "Washington, DC",
-      "remoteType": "hybrid",
-      "salaryMin": 130000,
-      "salaryMax": 170000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T20:42:50.000Z",
-      "firstIndexedAt": "2026-08-19T13:45:47.291Z",
-      "url": "https://www.dreamworkhq.com/job/4688f87f-938e-41ef-8d7b-31648c714a3b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "03f8d2b8-6d7d-4c36-bf4d-4db8320ea2db",
       "title": "GCP Cloud Engineer",
       "company": "Lightfeatheriollc",
@@ -8510,6 +8540,21 @@
       "url": "https://www.dreamworkhq.com/job/c34afe27-dfe0-4a6b-a911-d00d0ba4c080?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
+      "id": "4688f87f-938e-41ef-8d7b-31648c714a3b",
+      "title": "Senior Azure Cloud Infrastructure Engineer - Cleared",
+      "company": "Lightfeatheriollc",
+      "companyDomain": "lightfeather.io",
+      "location": "Washington, DC",
+      "remoteType": "hybrid",
+      "salaryMin": 130000,
+      "salaryMax": 170000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-18T20:42:50.000Z",
+      "firstIndexedAt": "2026-08-19T13:45:47.291Z",
+      "url": "https://www.dreamworkhq.com/job/4688f87f-938e-41ef-8d7b-31648c714a3b?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
       "id": "562378ea-02e2-4f04-b6e2-a327cd6dbbda",
       "title": "Azure Cloud Engineer",
       "company": "Lightfeatheriollc",
@@ -8525,21 +8570,6 @@
       "url": "https://www.dreamworkhq.com/job/562378ea-02e2-4f04-b6e2-a327cd6dbbda?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "d3d2c116-9140-4f1f-828f-d3756827d3e9",
-      "title": "Data Platform Engineer (GCP)",
-      "company": "Innodatainc",
-      "companyDomain": "innodata.com",
-      "location": "Remote - United States",
-      "remoteType": "remote",
-      "salaryMin": 60000,
-      "salaryMax": 110000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-17T17:18:35.000Z",
-      "firstIndexedAt": "2026-08-19T13:45:34.915Z",
-      "url": "https://www.dreamworkhq.com/job/d3d2c116-9140-4f1f-828f-d3756827d3e9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "eca1d765-2eaf-41d4-9b1d-defcc65dbe84",
       "title": "Data Platform Engineer (GCP)",
       "company": "Innodatainc",
@@ -8553,6 +8583,21 @@
       "postedAt": "2026-08-17T17:18:35.000Z",
       "firstIndexedAt": "2026-08-19T13:45:34.915Z",
       "url": "https://www.dreamworkhq.com/job/eca1d765-2eaf-41d4-9b1d-defcc65dbe84?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "d3d2c116-9140-4f1f-828f-d3756827d3e9",
+      "title": "Data Platform Engineer (GCP)",
+      "company": "Innodatainc",
+      "companyDomain": "innodata.com",
+      "location": "Remote - United States",
+      "remoteType": "remote",
+      "salaryMin": 60000,
+      "salaryMax": 110000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-17T17:18:35.000Z",
+      "firstIndexedAt": "2026-08-19T13:45:34.915Z",
+      "url": "https://www.dreamworkhq.com/job/d3d2c116-9140-4f1f-828f-d3756827d3e9?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "d840586f-d568-4564-8ede-99d7f89e93da",
@@ -8630,21 +8675,6 @@
       "url": "https://www.dreamworkhq.com/job/d9148ff5-68d2-4a54-92d5-81c9044c61ec?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "4d0cfef3-2798-45d4-ab7a-4b26fa4048b8",
-      "title": "Technology – DAP Middleware Platform Engineer – AVP",
-      "company": "Deutsche Bank",
-      "companyDomain": "db.com",
-      "location": "Singapore, One Raffles Quay",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T22:46:36.048Z",
-      "firstIndexedAt": "2026-08-19T12:26:54.200Z",
-      "url": "https://www.dreamworkhq.com/job/4d0cfef3-2798-45d4-ab7a-4b26fa4048b8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
       "id": "740bec31-93bd-4e02-8223-497989cdba22",
       "title": "Data Platform Engineer - Snowflake",
       "company": "Deutsche Bank",
@@ -8658,6 +8688,21 @@
       "postedAt": "2026-08-17T22:46:36.426Z",
       "firstIndexedAt": "2026-08-19T12:26:54.200Z",
       "url": "https://www.dreamworkhq.com/job/740bec31-93bd-4e02-8223-497989cdba22?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+    },
+    {
+      "id": "4d0cfef3-2798-45d4-ab7a-4b26fa4048b8",
+      "title": "Technology – DAP Middleware Platform Engineer – AVP",
+      "company": "Deutsche Bank",
+      "companyDomain": "db.com",
+      "location": "Singapore, One Raffles Quay",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T22:46:36.048Z",
+      "firstIndexedAt": "2026-08-19T12:26:54.200Z",
+      "url": "https://www.dreamworkhq.com/job/4d0cfef3-2798-45d4-ab7a-4b26fa4048b8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "228c0071-43a2-4e93-8a77-78d3ab7f59d1",
@@ -8750,19 +8795,19 @@
       "url": "https://www.dreamworkhq.com/job/18fcf393-8187-458b-8635-05f117b52a87?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
-      "id": "05ea1431-76d1-4e3e-92fa-d855e15f57de",
+      "id": "52c7e69d-ed21-4378-aeee-2a67dedc9331",
       "title": "DevOps Engineer",
       "company": "NSW Health Pathology",
       "companyDomain": "pathology.nsw.gov.au",
       "location": "Newcastle, Hunter & Region",
       "remoteType": null,
-      "salaryMin": 87000,
-      "salaryMax": 99000,
+      "salaryMin": 91000,
+      "salaryMax": 103000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
       "postedAt": null,
       "firstIndexedAt": "2026-08-19T10:59:52.697Z",
-      "url": "https://www.dreamworkhq.com/job/05ea1431-76d1-4e3e-92fa-d855e15f57de?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
+      "url": "https://www.dreamworkhq.com/job/52c7e69d-ed21-4378-aeee-2a67dedc9331?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     },
     {
       "id": "fc9e4f54-1fa1-4435-a4cc-5373378ae6e9",
@@ -8958,51 +9003,6 @@
       "postedAt": "2026-08-17T20:01:40.163Z",
       "firstIndexedAt": "2026-08-19T09:08:39.999Z",
       "url": "https://www.dreamworkhq.com/job/7e504d27-b38d-4e11-94aa-559bb3411a64?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "e61cb2bf-b754-44c4-8591-beda4ebeda5c",
-      "title": "Senior Cloud Engineer",
-      "company": "Manulife",
-      "companyDomain": "manulife.com",
-      "location": "Makati City",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T20:01:39.915Z",
-      "firstIndexedAt": "2026-08-19T09:08:39.999Z",
-      "url": "https://www.dreamworkhq.com/job/e61cb2bf-b754-44c4-8591-beda4ebeda5c?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "41c7f555-b330-464b-9394-4014019ee5f8",
-      "title": "Senior DevOps Engineer - UK operation Hours",
-      "company": "Next",
-      "companyDomain": "careers.next.co.uk",
-      "location": "Colombo, Sri Lanka",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T07:18:48.000Z",
-      "firstIndexedAt": "2026-08-19T09:01:30.423Z",
-      "url": "https://www.dreamworkhq.com/job/41c7f555-b330-464b-9394-4014019ee5f8?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
-    },
-    {
-      "id": "908e6c43-15fe-43d9-ab50-1a30ce11b97a",
-      "title": "Staff Site Reliability Engineer",
-      "company": "Caseware",
-      "companyDomain": "caseware.com",
-      "location": "Toronto, ON",
-      "remoteType": null,
-      "salaryMin": 102000,
-      "salaryMax": 113000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T16:16:12.689Z",
-      "firstIndexedAt": "2026-08-19T09:01:18.941Z",
-      "url": "https://www.dreamworkhq.com/job/908e6c43-15fe-43d9-ab50-1a30ce11b97a?utm_source=github&utm_campaign=gh-devops-sre-cloud-jobs"
     }
   ]
 }
